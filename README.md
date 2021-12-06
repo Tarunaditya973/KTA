@@ -1,2 +1,0 @@
-# KTA
-This is Tutorial
